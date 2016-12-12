@@ -4,6 +4,7 @@ table {
     border-top: 1px solid $gray-light;
     width: 100%;
     overflow: auto;
+    overflow-x: scroll;
 
     thead {
         background-color: lighten($primary-color, 30%);
